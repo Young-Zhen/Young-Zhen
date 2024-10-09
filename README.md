@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- I'm currently a master student working on NLP. 
+- My interests include large language models, multi-modal models, discourse parsing, etc.
 <!--
 **Young-Zhen/Young-Zhen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
